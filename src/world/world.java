@@ -7,7 +7,17 @@ public class world {
 		
 		System.out.println("********************* world ********************");
 		// TODO Auto-generated method stub
+		
+		System.out.println("********************* world ********************");
 
+		
+		
+		
+		System.out.println("********************* world ********************");
+		
+		System.out.println("********************* world ********************");
+		
+		System.out.println("********************* world ********************");
 	}
 
 }
